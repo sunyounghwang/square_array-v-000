@@ -3,3 +3,5 @@ def square_array(array)
   array.each {|element| sq_array << element**2}
   sq_array
 end
+
+#array.map {|element| element**2}
